@@ -1,2 +1,2 @@
 # disease_stigma
-Repository to accompany "Stigma's Uneven Decline"
+Repository to accompany the paper "Stigma's Uneven Decline" by Rachel Best and Alina Arseniev-Koehler.
