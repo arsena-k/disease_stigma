@@ -12,14 +12,14 @@ ValidatingStigmaScores.py (TO DO)
 * Most and least similar words to various dimensions
 
 WriteStigmaScores_CleanedUp.py
-* Compute each of 4 stigma scores and medicalization score for each diseases, in each model, in each time period. Write results to CSVs.
+* Compute each of 4 stigma scores and medicalization score for each disease, in each model, in each time period. Write results to CSVs.
 * Uses functions in:  build_lexicon_stigma.py and dimension_stigma.py
 
 AggregatingStigmaScores_CleanedUp.py (TO DO)
 * Aggregate bootstrapped scores for time windows into a mean and confidence interval 
 
 WordCounts.py (TO DO)
-* Compute the number of mentions for each disease in each year
+* Compute the number of mentions for each disease, in each model, in each time period. Write results to a CSV.
 
 PlottingDiseases.ipynp (TO DO)
 * Visualize stigma scores of diseases across time
