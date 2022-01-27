@@ -8,12 +8,11 @@ Created on Thu Jan 27 11:08:03 2022
 
 import os
 from gensim.models import Word2Vec
-
 from gensim.test.utils import datapath
 
 os.chdir('C:/Users/arsen/Dropbox/R01DiseaseStigma/Analyses/') 
 
-
+#Note, the Google Analogy Test requires "questions_words_pasted.txt" developed by Mikolov et al: https://aclweb.org/aclwiki/Google_analogy_test_set_(State_of_the_art)
 
 
 
