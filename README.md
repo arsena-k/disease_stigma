@@ -16,7 +16,7 @@ Code repository in progress to accompany the paper "Stigma's Uneven Decline" by 
 * Validate an overall word2vec model on the WordSim-353 Test
 * Validate an overall word2vec model on the Google Analogy Test
 * Requires: questions_words_pasted.txt
-* 
+
 **Validating_Dimensions in Bootstraps_CleanedUp.py**
 * Cross-validation for each of 4 dimensions
 * Cosine similarities between all the 4 dimensions
