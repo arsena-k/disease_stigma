@@ -1,5 +1,5 @@
 # disease_stigma
-Repository in progress to accompany the paper "Stigma's Uneven Decline" by Rachel Kahn Best and Alina Arseniev-Koehler. Preprint of paper is available here: https://osf.io/preprints/socarxiv/7nm9x/. 
+Code repository in progress to accompany the paper "Stigma's Uneven Decline" by Rachel Kahn Best and Alina Arseniev-Koehler. Preprint of paper is available here: https://osf.io/preprints/socarxiv/7nm9x/. Details and context are described in the paper and appendices.  
 
 TrainingPhraser_CleanedUp.py
 * Train a phraser on text data from a given time window. One phraser trained per time window. 
