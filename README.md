@@ -1,6 +1,11 @@
 # disease_stigma
 Code repository in progress to accompany the paper "Stigma's Uneven Decline" by Rachel Kahn Best and Alina Arseniev-Koehler. Preprint of paper is available here: https://osf.io/preprints/socarxiv/7nm9x/. Details and context are described in the paper and appendices. 
 
+
+Final_Search_SymptomsDiseasesList.txt
+* List of search terms used for symptoms and diseases, we used this search term list to collect news articles via the Lexis Nexis API. 
+* Note: We do not include code to collect raw news data using the Lexis Nexis API. Our code for this is lightly adapted from code provided to us by the University of Michigan to use the LexisNexis API and uses private API keys. We cannot redstribute the raw data collected from Lexis Nexis API.
+
 TrainingPhraser_CleanedUp.py
 * Train a phraser on text data from a given time window. One phraser trained per time window. 
 
