@@ -18,11 +18,14 @@ WriteStigmaScores_CleanedUp.py
 * Compute each of 4 stigma scores and medicalization score for each disease, in each model, in each time period. Write results to CSVs (one CSV per dimension, per time window).
 * Requires: build_lexicon_stigma.py and dimension_stigma.py
 
-AggregatingStigmaScores_CleanedUp.py
-* Aggregate bootstrapped scores for time windows to get a mean and confidence interval for each disease's loading on a dimension in a given time window. Write results to a CSV (one CSV per dimension). 
+AggregatingStigmaScores_StigmaIndex_CleanedUp.py
+* Aggregate bootstrapped scores for the time windows and 4 dimensions to get a mean and 92% confidence interval for each disease's mean loading across the 4 dimensions (i.e., stigma score) in each time window. Write results to a single CSV. 
 
+AggregatingStigmaScores_CleanedUp.py (KEEP CLEANING UP)
+* Aggregate bootstrapped scores for time windows to get a mean and 92% confidence interval for each disease's loading on a dimension in a given time window. Write results to a CSV (one CSV per dimension). 
 
 WordCounts.py (TO DO)
 * Compute the number of mentions for each disease, in each model, in each time period. 
+
 PlottingDiseases.ipynp (TO DO)
 * Visualize stigma scores of diseases across time
