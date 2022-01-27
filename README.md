@@ -31,7 +31,7 @@ Code repository in progress to accompany the paper "Stigma's Uneven Decline" by 
 **AggregatingStigmaScores_StigmaIndex_CleanedUp.py**
 * Aggregate bootstrapped scores for the time windows and 4 dimensions to get a mean and 92% confidence interval for each disease's mean loading across the 4 dimensions (i.e., stigma score) in each time window. Write results to a single CSV (this CSV is also included in this repository: stigmaindex_aggregated_temp_92CI.csv). 
 
-**AggregatingBootstraps_CleanedUp.py **
+**AggregatingBootstraps_CleanedUp.py**
 * Aggregate bootstrapped scores for time windows to get a mean and 92% confidence interval for each disease's loading on a dimension in a given time window. Write results to a CSV (one CSV per dimension). 
 
 **WordCounts.py (TO DO)**
