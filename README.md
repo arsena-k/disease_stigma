@@ -26,16 +26,17 @@ Code repository in progress to accompany the paper "Stigma's Uneven Decline" by 
 
 **WriteStigmaScores_CleanedUp.py**
 * Compute each of 4 stigma scores and medicalization score for each disease, in each model, in each time period. Write results to CSVs (one CSV per dimension, per time window).
-* Requires: build_lexicon_stigma.py and dimension_stigma.py, updated_personality_trait_list.csv, and Stigma_WordLists.csv
+* Requires: build_lexicon_stigma.py and dimension_stigma.py, updated_personality_trait_list.csv, Stigma_WordLists.csv, and Disease_list_5.12.20_uncorrupted.csv.
 
 **AggregatingStigmaScores_StigmaIndex_CleanedUp.py**
-* Aggregate bootstrapped scores for the time windows and 4 dimensions to get a mean and 92% confidence interval for each disease's mean loading across the 4 dimensions (i.e., stigma score) in each time window. Write results to a single CSV (this CSV is also included in this repository: "stigmaindex_aggregated_temp_92CI.csv").
+* Aggregate bootstrapped scores for the time windows and 4 dimensions to get a mean and 92% confidence interval for each disease's mean loading across the 4 dimensions (i.e., stigma score) in each time window. Write results to a single CSV (this CSV is also included in this repository: stigmaindex_aggregated_temp_92CI.csv). 
 
 **AggregatingBootstraps_CleanedUp.py **
 * Aggregate bootstrapped scores for time windows to get a mean and 92% confidence interval for each disease's loading on a dimension in a given time window. Write results to a CSV (one CSV per dimension). 
 
 **WordCounts.py (TO DO)**
 * Compute the number of mentions for each disease, in each model, in each time period. 
+* Requires: Disease_list_5.12.20_uncorrupted.csv
 
 **PlottingDiseases.ipynp (TO DO)**
 * Visualize stigma scores of diseases across time
