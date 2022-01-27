@@ -7,9 +7,10 @@ TrainingPhraser_CleanedUp.py
 TrainingW2V_Booted_CleanedUp.py
 * Train word2vec models on bootstrapped data. Use phrasers for each time window trained with the code "TrainingPhraser_CleanedUp.py"
 
-ValidatingStigmaScores.py (TO DO)
-* Cross-validation
-* Most and least similar words to various dimensions
+ValidatingStigmaScores.py
+* Cross-validation for dimensions
+* Cosine similarities between dimensions
+* Most and least similar words to each dimension
 
 WriteStigmaScores_CleanedUp.py
 * Compute each of 4 stigma scores and medicalization score for each disease, in each model, in each time period. Write results to CSVs.
