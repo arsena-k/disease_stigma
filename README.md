@@ -7,6 +7,10 @@ TrainingPhraser_CleanedUp.py
 TrainingW2V_Booted_CleanedUp.py
 * Train word2vec models on bootstrapped text data. Use phrasers for each time window trained with the code "TrainingPhraser_CleanedUp.py"
 
+Validating_OverallW2VModels_CleanedUp.py
+* Validate an overall word2vec model on the WordSim-353 Test
+* Validate an overall word2vec model on the Google Analogy Test
+
 Validating_Dimensions in Bootstraps_CleanedUp.py
 * Cross-validation for each of 4 dimensions
 * Cosine similarities between all the 4 dimensions
