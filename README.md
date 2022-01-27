@@ -10,6 +10,7 @@ TrainingW2V_Booted_CleanedUp.py
 Validating_OverallW2VModels_CleanedUp.py
 * Validate an overall word2vec model on the WordSim-353 Test
 * Validate an overall word2vec model on the Google Analogy Test
+* Requires: questions_words_pasted.txt
 
 Validating_Dimensions in Bootstraps_CleanedUp.py
 * Cross-validation for each of 4 dimensions
