@@ -15,14 +15,14 @@ Validating_Dimensions in Bootstraps_CleanedUp.py
 * Note: We do not include code or data for comparing our dimensions to human-rated data collected by Pachankis et. al; we cannot distribute data from Pachankis et al.  
 
 WriteStigmaScores_CleanedUp.py
-* Compute each of 4 stigma scores and medicalization score for each disease, in each model, in each time period. Write results to CSVs.
+* Compute each of 4 stigma scores and medicalization score for each disease, in each model, in each time period. Write results to CSVs (one CSV per dimension, per time window).
 * Requires: build_lexicon_stigma.py and dimension_stigma.py
 
-AggregatingStigmaScores_CleanedUp.py (TO DO)
-* Aggregate bootstrapped scores for time windows into a mean and confidence interval 
+AggregatingStigmaScores_CleanedUp.py
+* Aggregate bootstrapped scores for time windows to get a mean and confidence interval for each disease's loading on a dimension in a given time window. Write results to a CSV (one CSV per dimension). 
+
 
 WordCounts.py (TO DO)
-* Compute the number of mentions for each disease, in each model, in each time period. Write results to a CSV.
-
+* Compute the number of mentions for each disease, in each model, in each time period. 
 PlottingDiseases.ipynp (TO DO)
 * Visualize stigma scores of diseases across time
