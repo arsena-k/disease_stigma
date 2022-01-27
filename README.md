@@ -1,5 +1,8 @@
 # disease_stigma
-Code repository in progress to accompany the paper "Stigma's Uneven Decline" by Rachel Kahn Best and Alina Arseniev-Koehler. Preprint of paper is available here: https://osf.io/preprints/socarxiv/7nm9x/. Details and context are described in the paper and appendices. 
+
+**This code repository accompanies the paper "Stigma's Uneven Decline" by Rachel Kahn Best and Alina Arseniev-Koehler.** 
+
+Preprint of paper is available here: https://osf.io/preprints/socarxiv/7nm9x/. Details and context for this code are described in the paper and appendices. 
 
 **Paper abstract:** Has disease stigma declined? Our ability to answer this question has been hampered by the lack of comparable data across diseases and over time. Using word embeddings, we analyze 4.5 million news articles to create new measures of stigma for 107 health conditions. We find that in the 1980s, most diseases were marked by strong connotations of disgust, danger, impurity, and negative personality traits. Since then, stigma has declined dramatically for most physical illnesses; cancers, neurological conditions, genetic diseases, and many other conditions have shed most of their negative connotations. But this decline was uneven: mental illnesses, eating disorders, and addictions saw no stigma declines, and stigma declined more slowly for infectious diseases than for chronic conditions. Using multivariate regression, we find that patients’ activism explains some but not all of the variation in stigma. Stigma has transformed from a sea of negative connotations surrounding most diseases to a narrower set of judgments targeting conditions where the primary symptoms are aberrant behaviors.
 
