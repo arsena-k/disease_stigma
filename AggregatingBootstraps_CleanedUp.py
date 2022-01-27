@@ -44,7 +44,7 @@ diseases1= pd.read_csv('temp'+ str(dim) +'2016.csv')
 diseases= diseases.append(diseases1)
 
 
-# AGGREGATE AND COMPUTE RANK ORDER OF SCORES TO GET CONFIDENCE INTERVALS
+# AGGREGATE AND COMPUTE RANK ORDER OF SCORES TO GET CONFIDENCE INTERVALS FOR THIS DIMENSION
 
 
 grouped = diseases.groupby(['Reconciled_Name', 'Year'])
