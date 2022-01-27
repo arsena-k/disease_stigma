@@ -1,0 +1,15 @@
+'(retard* OR disorder* OR disease* OR syndrome* OR illness* OR infect* OR  allergi* OR  impair* OR  disabil* OR  neuropath* OR  death* OR \
+deficienc* OR atrophy OR cancer* OR Lymphoma* OR Hodgkin* OR Myeloma* OR ADHD OR hyperkinesis OR \
+Autis*  OR depress*  OR personalit*  OR dyslexi*  OR anorexi*  OR bulimi*  OR PTSD  OR Schizophreni*  OR dementia*  OR phobia* OR Stuttering  OR \
+tourette* OR  alcohol*  OR abuse*  OR dependen*  OR addict*  OR substance  OR drug*  OR Hepatitis  OR AIDS  OR HIV  OR virus*  OR viral OR infect* OR Influenza  OR \
+flu  OR Malaria OR Pneumoni* OR septicemi* OR bacteremi* OR tuberculosis OR "chronic fatigue" OR CFIDS OR CFS OR encephalomyelitis OR Fibromyalgia OR FMS OR fibrosi* OR IBS OR colitis OR Crohn* OR morgellons OR \"multiple chemical\" OR \"environmental intolerance\" OR \
+Alpha-1 OR ALS  OR sclerosis  OR Alzheimer* OR Arthriti* OR osteoarthrit* OR  arthropath* OR  spondylosis OR  asthma* OR \
+Atherosclero* OR "hardening of the arteries" OR blind* OR vision OR Celiac OR sprue OR Palsy OR Charcot OR \
+Chlamydia OR Cirrhosis OR bronchitis OR COPD OR emphysema OR cleft OR craniofacial OR mucoviscidosis OR deaf* OR hearing OR Diabetes OR Trisomy OR Eczema OR "atopic dermatitis" OR excema OR \
+Epidermolysis OR epilep* OR "Fragile X" OR "Martin-Bell" OR Glaucoma OR Gonorrhea OR urethritis OR Headache OR migraine OR "heart attack" OR infarction OR cardiovascular* OR endocarditis OR angina OR "heart failure" OR\
+myocarditis OR Hemochromatosis OR genetic OR hemophili* OR Herpes OR "cold sore" OR "cold sores" OR HSV OR HPV OR papillomavirus OR "genital warts"  OR Huntington*  OR Hydrocephalus  OR Hypertension OR "blood pressure" OR cystitis OR nephritis OR kidney OR liver OR lung OR glomerulonephritis OR nephrosis OR lupus OR lyme OR marfan OR dystroph* OR steinert* OR myastheni* OR \
+Neurofibromatosis OR Recklinghausen OR Niemann OR Osteogenesis OR osteitis OR *Paget* OR Parkinson* OR  "paralysis agitans" OR  ulcer OR Phenylketonuria OR PKU OR "Prader Willi" OR "Prader Labhart Willi" OR Psoriasis OR Scleroderma OR Scoliosis OR "sickle cell" OR "Spina bifida" OR stroke OR cerebrovascular OR SIDS OR syphili* OR "tay sachs" OR gangliosidosis OR Thalassemia OR anemia OR hemoglobin OR obes* OR Overweight OR fat* OR \
+sad OR sadness OR melancholy OR depression OR depressed OR anxiety OR anxious OR worry OR worried OR worrying OR insomnia OR insomniac \
+OR "trouble sleeping" OR sleep OR "erectile dysfunction" OR impotence OR impotent OR erection OR sex OR "premenstrual syndrome" \
+OR PMS OR period OR menstrua* OR premenstrual OR "Female sexual dysfunction" OR "sex drive" OR horny OR libido OR horniness OR ADHD \
+OR ADD OR hyperactiv* OR "opioid addict" OR "opiate addict" OR "opioid addiction" OR "opiate addiction" OR "crack addict" OR "crack addiction" OR "cocaine addict" OR "cocaine addiction" OR "heroin addict" OR "heroin addiction" OR "drug addict" OR "drug addiction" OR alcoholism OR alcoholic)' 
