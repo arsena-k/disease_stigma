@@ -40,8 +40,8 @@ Preprint of paper is available here: https://osf.io/preprints/socarxiv/7nm9x/. D
 **AggregatingBootstraps_CleanedUp.py**
 * Aggregate bootstrapped scores for time windows to get a mean and 92% confidence interval for each disease's loading on a dimension in a given time window. Write results to a CSV (one CSV per dimension). 
 
-**WordCounts.py (TO DO)**
-* Compute the number of mentions for each disease, in each model, in each time period. 
+**WordCounts.py**
+* Compute the number of mentions for each disease, in each model, in each time period.  Get a mean and 92% confidence interval for each disease's number of mentions in a given time window. Write results to a CSV. 
 * Requires: Disease_list_5.12.20_uncorrupted.csv
 
 **PlottingDiseases.ipynp (TO DO)**
