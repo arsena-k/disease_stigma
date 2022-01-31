@@ -44,5 +44,5 @@ Preprint of paper is available here: https://osf.io/preprints/socarxiv/7nm9x/. D
 * Compute the number of mentions for each disease, in each model, in each time period.  Get a mean and 92% confidence interval for each disease's number of mentions in a given time window. Write results to a CSV. 
 * Requires: Disease_list_5.12.20_uncorrupted.csv
 
-**PlottingDiseases.ipynp (TO DO)**
-* Visualize stigma scores of diseases across time
+**PlottingBootstrapped_CleanedUp.py**
+* Visualize stigma scores of diseases, by disease group, across time. (Requires stigmaindex_aggregated_temp_92CI.csv).
