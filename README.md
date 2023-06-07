@@ -1,6 +1,6 @@
 # disease_stigma
 
-**This code repository accompanies the paper "Stigma's Uneven Decline" by Rachel Kahn Best and Alina Arseniev-Koehler.** 
+**This code repository accompanies the paper "[The Stigma of Diseases: Unequal Burden, Uneven Decline](https://osf.io/preprints/socarxiv/7nm9x/)" by Rachel Kahn Best and Alina Arseniev-Koehler.** 
 
 Preprint of paper is available here: https://osf.io/preprints/socarxiv/7nm9x/. Details and context for this code are described in the paper and appendices. 
 
