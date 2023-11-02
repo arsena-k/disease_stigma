@@ -48,7 +48,7 @@ class dimension_lexicon:
         self.w2vmodel= w2vmodel
         self.init_pos_train_words= init_pos_train_words
         self.init_neg_train_words= init_neg_train_words
-        self.init_pos_test_words= init_neg_train_words
+        self.init_pos_test_words= init_pos_train_words
         self.init_neg_test_words= init_neg_train_words
         self.test_size= test_size  #must be either positive and smaller than the number of samples or a float in the (0, 1) range
         
